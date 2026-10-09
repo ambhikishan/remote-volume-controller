@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: remote_volume_controller
